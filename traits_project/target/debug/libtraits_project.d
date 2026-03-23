@@ -1,0 +1,1 @@
+/workspaces/section18_traits3/traits_project/target/debug/libtraits_project.rlib: /workspaces/section18_traits3/traits_project/src/lib.rs /workspaces/section18_traits3/traits_project/src/p1.rs /workspaces/section18_traits3/traits_project/src/p2.rs /workspaces/section18_traits3/traits_project/src/p3.rs
